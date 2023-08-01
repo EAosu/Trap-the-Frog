@@ -1,9 +1,7 @@
 # Trap-the-Frog
 Trap the Frog - 2022 OOP Project
 Object-oriented programming ex4- Circle the Frog.
-Submitted by:
-Ely Asaraf, ID: 319027355 
-Nadav Malul, ID: 206762973
+
 Intro
 In this exercise we recreated a board game called “Circle the Cat”.
 The board contains an 11x11 matrix of tiles, each tile can be either "blocked" or free.
